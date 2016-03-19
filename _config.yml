@@ -1,0 +1,28 @@
+name: paul jones
+favicon: null
+layout_spectrum: 0.38027610373683274
+typography_spectrum: 0.4240294895134866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3022225589957088
+  lightness: 0.06349333468824625
+  saturation: 0.8406970561482012
+  rhythmicContrast: 0.5316546550020576
+purpose: []
